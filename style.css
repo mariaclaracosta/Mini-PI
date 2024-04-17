@@ -132,8 +132,6 @@ nav>a:visited {
 
 }
 
-
-
 nav>a:hover {
 
     background-color: var(--cor2);
@@ -273,51 +271,5 @@ aside p {
     text-align: justify;
 
     text-indent: 1em;
-
-}
-
-footer>p {
-
-    background-color: var(--cor3);
-
-    color: white;
-
-    text-align: center;
-
-    font-size: 0.8em;
-
-    padding: 5px;
-
-    margin-bottom: 0px;
-
-}
-
-footer a {
-
-    font-weight: bold;
-
-    color: white;
-
-    text-shadow: var(--box-shadow-padrao-texto);
-
-    text-decoration: none;
-
-    padding: 2px;
-
-}
-
-footer a:hover {
-
-    color: black;
-
-    background-color: white;
-
-    padding: 2px;
-
-}
-
-footer a::after {
-
-    content: var(--simbolo-link-externo);
 
 }
