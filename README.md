@@ -10,4 +10,4 @@ CSS e HTML para contar de tudo um pouco sobre pokemon.
 ![image](https://github.com/mariaclaracosta/Mini-PI/assets/106972816/1e40cd64-20f7-42eb-8254-5e4c7c1732cd)
 
 # Link do site
-https://currlculo.netlify.app/
+https://pokehistorias.netlify.app
