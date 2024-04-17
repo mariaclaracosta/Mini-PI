@@ -4,7 +4,7 @@
 
 :root {
 
-    --cor0: #dbba27;
+    --cor0: #f3dc76;
 
     --cor2: #af8208;
 
@@ -255,10 +255,10 @@ article h2 {
 }
 
 
-img {
+.imagem {
 
-    width: 100%;
-
+    width: 40%;
+    padding-left: 27%;
 }
 
 
